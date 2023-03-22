@@ -13,7 +13,7 @@ values:
   - heading: "Innovation"
     text: >
       Your company may value innovation and staying up-to-date with the latest teaching methods and technologies. This means that you are committed to providing the most effective and efficient study solutions to your students.
-    imageUrl: "/img/about-sustainable-farming.jpg"
+    imageUrl: "/img/Studying.jpg"
   - heading: "Integrity"
     text: >
       Your company may prioritize integrity and honesty in all of your interactions with students. This means that you provide transparent information and are committed to delivering what you promise.
