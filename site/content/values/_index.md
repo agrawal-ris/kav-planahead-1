@@ -1,45 +1,25 @@
 ---
 title: "Values"
-image: /img/about-jumbotron.jpg
+image: /img/Studying.jpg
 values:
-  - heading: "Shade-grown coffee"
+  - heading: "Student success"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
+      Your company may value the success of your students above all else. This means that you are dedicated to providing the support, resources, and guidance that students need to achieve their academic goals.
     imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+  - heading: "Personalized support"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
+       Your company may believe in providing personalized support to each student. This means that you recognize that every student has unique needs and goals, and you tailor your approach to meet those needs.
     imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+  - heading: "Innovation"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
+      Your company may value innovation and staying up-to-date with the latest teaching methods and technologies. This means that you are committed to providing the most effective and efficient study solutions to your students.
     imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
+  - heading: "Integrity"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Your company may prioritize integrity and honesty in all of your interactions with students. This means that you provide transparent information and are committed to delivering what you promise.
     imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
+  - heading: "Diversity and inclusion"
     text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
+      Your company may value diversity and inclusion in all aspects of your business. This means that you provide a welcoming and supportive environment for students from all backgrounds and cultures, and you actively work to promote diversity in your team and services.
     imageUrl: "/img/about-reinvest-profits.jpg"
 ---

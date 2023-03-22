@@ -19,10 +19,5 @@ products:
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
     heading: Our values
-    text: 
-        - Student success: Your company may value the success of your students above all else. This means that you are dedicated to providing the support, resources, and guidance that students need to achieve their academic goals.
-        - Personalized support: Your company may believe in providing personalized support to each student. This means that you recognize that every student has unique needs and goals, and you tailor your approach to meet those needs.
-        - Innovation: Your company may value innovation and staying up-to-date with the latest teaching methods and technologies. This means that you are committed to providing the most effective and efficient study solutions to your students.
-        - Integrity: Your company may prioritize integrity and honesty in all of your interactions with students. This means that you provide transparent information and are committed to delivering what you promise.
-        - Diversity and inclusion: Your company may value diversity and inclusion in all aspects of your business. This means that you provide a welcoming and supportive environment for students from all backgrounds and cultures, and you actively work to promote diversity in your team and services.
+    text: Are dedicated to providing the support, resources, and guidance that students need to achieve their academic goals.
 ---
