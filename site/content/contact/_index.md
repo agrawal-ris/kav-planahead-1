@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-logo: "/img/logo.svg"
+logo: "/img/Plan_Edge_Logo.svg"
 contact_entries:
   - heading: Location
     text: "3153 Lynn Avenue, South San Francisco, California 94080"
